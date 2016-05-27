@@ -1,0 +1,71 @@
+h1 {
+    color: #4dc3ff;
+    font-size: 40px;
+    text-align: center;
+}
+
+.tweet {
+    border: solid;
+    border-radius: 5px;
+    border-color: #4dc3ff;
+    
+    margin-top: 20px;
+    margin-left: 170px;
+    width: 75%;
+    padding-left: 27px;
+    
+    font-family: 'Times New Roman', sans-serif;
+}
+
+.inputField {
+    border: 2px solid #4dc3ff;
+    
+    font-size: 24px;
+    padding: 20px;
+    width: 40%;
+    margin-left: 225px;
+    
+    transition: background 1s, border-left 1s;
+}
+
+.button {
+    font-size: 24px;
+    font-family: 'Times New Roman', sans-serif;
+    color: white;
+    
+    border: solid #4dc3ff;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #4dc3ff;
+    margin-left: 40px;
+    
+    transition: background 1s, color 1s;
+}
+
+a:link {
+    text-decoration: underline;
+    color:red;
+}
+
+footer {
+    font-family: 'Times New Roman';
+    color: #4dc3ff;
+    font-size: 40px; 
+    margin-left: 225px;
+    margin-top: 370px;
+    width: 700px;
+}
+
+#pictureOfMe{
+    transform: rotate(90deg);
+    width: 80%;
+    height: 80s%;
+
+    padding: 10px;
+    margin-top: 25px;
+}
+
+#yoursTruly{
+    font-size: 20px;
+    
+}
